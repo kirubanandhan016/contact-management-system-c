@@ -1,18 +1,7 @@
-# 📞 Contact Management System in C
+## How to Run
 
-## 📌 Description
-A simple contact management system built in C using file handling.
+1. Compile the program:
+   gcc contact.c -o contact
 
-## ⚙️ Features
-- Add contact
-- Display contacts
-- Search contact
-- Delete contact
-
-## 🛠️ Technologies
-- C Programming
-- File Handling
-
-## ▶️ Run
-gcc contact.c -o contact
-./contact
+2. Run:
+   ./contact
